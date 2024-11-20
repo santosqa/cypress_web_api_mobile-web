@@ -9,8 +9,9 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://on.cypress.io" target="_blank">Documentação Oficial</a>
+  <a href="https://on.cypress.io" target="_blank" rel="noopener noreferrer">Documentação Oficial</a>
 </p>
+
 
 # Cypress Skills - Automação Web | Api | Mobile-web
 
@@ -79,7 +80,9 @@ pnpm add cypress --save-dev
 ---
 
 !!! tip [App RockShaver](localhost:300)
+
 !!! tip [ADM RockShaver](http://localhost:8100/login) <!-- Matrícula:     Senha:   -->
+
 !!! tip [Gerenciador DB](http://localhost:17017) <!-- Username: cypress    Password: skills  -->
 
 !!! caution **Ateção!** é necessário ter o docker instalado e baixar o container ```rockshaver```
