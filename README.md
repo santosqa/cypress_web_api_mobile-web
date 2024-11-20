@@ -76,13 +76,13 @@ pnpm add cypress --save-dev
 ## Links
 ---
 
-!!! tip [App RockShaver](localhost:300)
+!!!tip [App RockShaver](localhost:300)
 
-!!! tip [ADM RockShaver](http://localhost:8100/login) <!-- Matrícula:     Senha:   -->
+!!!tip [ADM RockShaver](http://localhost:8100/login) <!-- Matrícula:     Senha:   -->
 
-!!! tip [Gerenciador DB](http://localhost:17017) <!-- Username: cypress    Password: skills  -->
+!!!tip [Gerenciador DB](http://localhost:17017) <!-- Username: cypress    Password: skills  -->
 
-!!! caution **Ateção!** é necessário ter o docker instalado e baixar o container ```rockshaver```
+!!!caution **Ateção!** é necessário ter o docker instalado e baixar o container ```rockshaver```
 
 
 ---
