@@ -1,0 +1,21 @@
+# Ignorar todos os arquivos na pasta .yarn
+web/.yarn/*
+
+# Exceções para subdiretórios específicos
+!web/.yarn/patches
+!web/.yarn/plugins
+!web/.yarn/releases
+!web/.yarn/sdks
+!web/.yarn/versions
+!web/.yarn/cache
+
+# Swap the comments on the following lines if you wish to use zero-installs
+# In that case, don't forget to run `yarn config set enableGlobalCache false`!
+# Documentation here: https://yarnpkg.com/features/caching#zero-installs
+
+.pnp.*
+.DS_Store
+.git
+
+# Exceções para arquivos particulares
+acessos.md
