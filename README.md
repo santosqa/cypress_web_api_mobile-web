@@ -1,6 +1,5 @@
-
 <p align="center">
-  <a href="https://www.cypress.io">
+  <a href="https://www.cypress.io" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="./assets/cypress-logo-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-light.png">
@@ -11,7 +10,6 @@
 <p align="center">
   <a href="https://on.cypress.io" target="_blank" rel="noopener noreferrer">Documentação Oficial</a>
 </p>
-
 
 # Cypress Skills - Automação Web | Api | Mobile-web
 
