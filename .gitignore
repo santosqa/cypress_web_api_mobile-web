@@ -1,5 +1,9 @@
+#Ignorar pasta node modules
+web/node_modules
+
+
 # Ignorar todos os arquivos na pasta .yarn
-web/.yarn/*
+web/.yarn
 
 # Exceções para subdiretórios específicos
 !web/.yarn/patches
