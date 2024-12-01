@@ -3,7 +3,7 @@
   <a href="https://santosqa.github.io/" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="./assets/cypress-logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-light.png">
       <img alt="Cypress Logo" src="./assets/cypress-logo-dark.png">
     </picture>
   </a>
